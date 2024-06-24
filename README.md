@@ -1,23 +1,19 @@
-# Hi there 👋
-
-# I'm Burak Çivitcioğlu 👋
-
-## 🚀 About Me
+<!---## 🚀 About Me --->
 I'm a Ph.D. Candidate in Machine Learning, passionate about AI. My research so far focused on applying machine learning techniques to classical spin systems. 
 
 ⚡ I'm always up for: AI, barbecue, and the Mediterranean. 
 
-## 🛠 Skills
+<!---## 🛠 Skills
 - **Programming Languages:** Python (main), experience in Java, C++, C
 - **ML & Data Tools:** TensorFlow, scikit-learn, pandas, Spark
 - **Machine Learning:** Deep Neural Networks, CNNs, VAEs, Vision Transformers
 - **Other:** GPU Computing, Cluster Computing, SQL, Basic AWS
-
 ## 📚 Education
 - Ph.D. Candidate in Machine Learning for Physics, CY Cergy-Paris Université (2020 - Present)
 - M2 Theoretical Physics and Applications, CY Cergy-Paris Université (2019 - 2020)
 - M2 Quantum Devices, Université Paris Cité (2018 - 2019)
 - B.Sci. Physics, Koc University, Istanbul (2013 - 2017)
+--->
 
 ## 🔥 Featured Projects
 - **petitgrad** [a matrix-based automatic differentiation engine inspired by micrograd.](https://pypi.org/project/petitgrad/)
@@ -29,10 +25,10 @@ I'm a Ph.D. Candidate in Machine Learning, passionate about AI. My research so f
 - Email: bcivitcioglu@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/burakcivitcioglu/)
 
-## 🏆 Achievements
+<!--- ## 🏆 Achievements
 - Deep Tech Pioneer, Hello Tomorrow (2020)
 - DAAD Scholarship for Summer School in Germany (2017)
-- Vehbi Koç Honours Award and Dean's Honours Roll (2017)
+- Vehbi Koç Honours Award and Dean's Honours Roll (2017) --->
 
 ## 📝 Latest Publications
 - [Civitcioglu, B. et al. (2024). Phase determination with and without deep learning. arXiv:2403.09786](https://arxiv.org/abs/2403.09786v1)
