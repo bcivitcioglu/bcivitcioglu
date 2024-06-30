@@ -9,7 +9,7 @@ I'm a Ph.D. Candidate in Machine Learning, passionate about AI. My research so f
 - **Cryptocurrency technical analysis tool:** [Developed technical analysis tool buy and sell signals based on real-time and backtesting data.](https://pypi.org/project/microcrypta/)
 
 ## 📫 How to Reach Me
-- Email: bcivitcioglu@gmail.com
+- Email: burak.civitcioglu@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/burakcivitcioglu/)
 
 <!--- ## 🏆 Achievements
@@ -21,4 +21,6 @@ I'm a Ph.D. Candidate in Machine Learning, passionate about AI. My research so f
 - [Civitcioglu, B. et al. (2024). Phase determination with and without deep learning. arXiv:2403.09786](https://arxiv.org/abs/2403.09786v1)
 - [Civitcioglu, B. et al. (2022). Machine Learning the Square-Lattice Ising Model. J. Phys.: Conf. Ser. 2207 012058](https://iopscience.iop.org/article/10.1088/1742-6596/2207/1/012058)
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions on ML or physics!
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions on ML or physics! 
+
+Some information about me also can be found on [here](https://bcivitcioglu.github.io).
