@@ -1,19 +1,6 @@
-<!---## 🚀 About Me --->
 I'm a Ph.D. Candidate in Machine Learning, passionate about AI. My research so far focused on applying machine learning techniques to classical spin systems. 
 
 ⚡ I'm always up for: AI, barbecue, and the Mediterranean. 
-
-<!---## 🛠 Skills
-- **Programming Languages:** Python (main), experience in Java, C++, C
-- **ML & Data Tools:** TensorFlow, scikit-learn, pandas, Spark
-- **Machine Learning:** Deep Neural Networks, CNNs, VAEs, Vision Transformers
-- **Other:** GPU Computing, Cluster Computing, SQL, Basic AWS
-## 📚 Education
-- Ph.D. Candidate in Machine Learning for Physics, CY Cergy-Paris Université (2020 - Present)
-- M2 Theoretical Physics and Applications, CY Cergy-Paris Université (2019 - 2020)
-- M2 Quantum Devices, Université Paris Cité (2018 - 2019)
-- B.Sci. Physics, Koc University, Istanbul (2013 - 2017)
---->
 
 ## 🔥 Featured Projects
 - **petitgrad** [a matrix-based automatic differentiation engine inspired by micrograd.](https://pypi.org/project/petitgrad/)
