@@ -8,6 +8,7 @@ I'm a Ph.D. Candidate in Machine Learning, passionate about AI. My research so f
 - **berts** [a custom BERT for token and document classification in one forward pass](https://github.com/bcivitcioglu/berts)
 - **Custom Variational Autoencoders for Physical Systems:** [Implemented and trained Convolutional VAEs on HPC clusters using GPUs to study physical systems.](https://arxiv.org/abs/2403.09786v1)
 - **Monte Carlo Data Generation Pipeline:** [Designed and implemented a simulation pipeline for data generation in condensed matter research, based on numpy.](https://pypi.org/project/mcising/)
+- **imgs2pdf** [a website on free tier render, that converts images to pdf](https://www.imgs2pdf.com)
 - **Cryptocurrency technical analysis tool:** [Developed technical analysis tool buy and sell signals based on real-time and backtesting data.](https://pypi.org/project/microcrypta/)
 
 ## 📫 How to Reach Me
