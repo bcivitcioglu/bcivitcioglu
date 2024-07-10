@@ -5,6 +5,7 @@ I'm a Ph.D. Candidate in Machine Learning, passionate about AI. My research so f
 ## 🔥 Featured Projects
 - **petitgrad** [a matrix-based automatic differentiation engine inspired by micrograd.](https://pypi.org/project/petitgrad/)
 - **imhance** [a low resolution to high resolution image enhancer, using transformer architecture implemented from scratch. ](https://github.com/bcivitcioglu/imhance)
+- **berts** [a custom BERT for token and document classification in one forward pass](https://github.com/bcivitcioglu/berts)
 - **Custom Variational Autoencoders for Physical Systems:** [Implemented and trained Convolutional VAEs on HPC clusters using GPUs to study physical systems.](https://arxiv.org/abs/2403.09786v1)
 - **Monte Carlo Data Generation Pipeline:** [Designed and implemented a simulation pipeline for data generation in condensed matter research, based on numpy.](https://pypi.org/project/mcising/)
 - **Cryptocurrency technical analysis tool:** [Developed technical analysis tool buy and sell signals based on real-time and backtesting data.](https://pypi.org/project/microcrypta/)
