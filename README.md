@@ -1,4 +1,4 @@
-I'm a Ph.D. Candidate in Machine Learning, passionate about AI. My research so far focused on applying machine learning techniques to classical spin systems. 
+I'm a researcher in machine learning and physics, and I am passionate about AI. My research so far focused on applying machine learning techniques to classical spin systems. 
 
 ⚡ I'm always up for: AI, barbecue, and the Mediterranean. 
 
